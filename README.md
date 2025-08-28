@@ -25,8 +25,10 @@ I'm continuously expanding my knowledge and working with the following technolog
 
 <p align="center">
   <a href="https://github.com/JustEmmacy">
+    <!-- The first card: General Stats -->
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JustEmmacy&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustEmmacy&theme=radical&hide_border=true&layout=compact&langs_count=8"/>
+    <!-- The second card: Top Languages. 'langs_count=5' shows top 5, 'hide=other' hides languages with low usage -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustEmmacy&theme=radical&hide_border=true&layout=compact&langs_count=5&hide=other" />
   </a>
 </p>
 
