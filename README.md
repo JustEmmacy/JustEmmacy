@@ -25,9 +25,7 @@ I'm continuously expanding my knowledge and working with the following technolog
 
 <p align="center">
   <a href="https://github.com/JustEmmacy">
-    <!-- The first card: General Stats -->
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JustEmmacy&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-    <!-- The second card: Top Languages. 'langs_count=5' shows top 5, 'hide=other' hides languages with low usage -->
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustEmmacy&theme=radical&hide_border=true&layout=compact&langs_count=5&hide=other" />
   </a>
 </p>
@@ -36,11 +34,10 @@ I'm continuously expanding my knowledge and working with the following technolog
 
 I'm always open to discussing technology, new opportunities, or creative ideas.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://balogun-emmanuel.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balogun-emmanuel-emmacy/)
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/just_emmacy)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmacy2005@gmail.com)
-<!-- If you create a portfolio website later, add a badge here like this: -->
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=-for-the-badge&logo=firefox&logoColor=white)](https://yourwebsite.com) -->
 
 ---
 
